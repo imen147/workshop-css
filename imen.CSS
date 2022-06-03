@@ -1,0 +1,43 @@
+h1 {
+    color: black;
+    font-size: 50px;
+    text-align: center;
+}
+
+h2 {
+    color: darkblue;
+    text-align: center;
+    font-size: 40px;
+}
+
+body {
+    background-image: url("./SOURCE/1-00_Types-of-Flowers_MainHero.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    
+
+}
+
+p {
+    text-indent: 50%;
+    color: black;
+    font-size: 50px;
+}
+
+table,
+th,
+td {
+    border: 1px solid;
+    width: 50%;
+    height: 50%;
+    display: center;
+}
+
+ul {
+    color: blue;
+    list-style: none;
+    font-weight: bold;
+    display: inline-table;
+}
