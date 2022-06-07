@@ -1,0 +1,74 @@
+.title {
+    color: #00b39b;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+}
+
+header {
+    display: flex;
+    justify-content: space-around;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+.menu1212 {
+    display: flex;
+    list-style: none;
+    cursor: pointer;
+}
+
+
+.menu {
+    margin-right: 10px;
+}
+
+.dropdown {
+    display: inline-block;
+    list-style: none;
+}
+
+.dropdown-content {
+    display: block;
+    color: black;
+    display: none;
+
+}
+
+
+
+li,
+a {
+    list-style: none;
+    display: block;
+    color: black;
+    padding: 12px;
+
+    h1 {
+        text-align: center;
+        color: #00b39b;
+        font-family: Work Sans, Arial, sans-serif;
+
+    }
+
+
+    .dep menu: hover .dropdown-content {
+        display: flex;
+        flex-direction: column;
+        list-style: none;
+
+    }
+
+
+
+
+
+        .Para {
+            display: flex;
+            width: 1015px;
+            margin: 0 auto;
+            font: 16px Roboto, Arial, sans-serif;
+            font-weight: 400px;
+            gap: 20px;
+            line-height: 1.75;
+        
+    }
